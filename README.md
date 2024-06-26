@@ -5,7 +5,7 @@ This repository contains automated tests for a web application using Selenium We
 ## Test Scenarios
 
 ### Task 1: Login Page Check and Navigation
-
+ **https://www.saucedemo.com/** website is used for Test
 1. **Login Page Check using ID Locator:**
    - Locate and verify elements on the login page using ID locators.
    
