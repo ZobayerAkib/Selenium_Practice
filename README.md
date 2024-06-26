@@ -41,8 +41,7 @@ This repository contains automated tests for a web application using Selenium We
 
 ## Setup Instructions
 
-1. **Clone the Repository:**
-  - **https://github.com/ZobayerAkib/Selenium_Practice.git**
+1. **Clone the Repository:**  **https://github.com/ZobayerAkib/Selenium_Practice.git**
 
 
 2. **Install Dependencies:**
