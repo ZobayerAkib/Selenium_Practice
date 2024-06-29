@@ -3,9 +3,10 @@
 This repository contains automated tests for a web application using Selenium WebDriver with Java. The tests are designed to perform basic checks on the login functionality and shopping cart operations of the application.
 
 ## Test Scenarios
-
+ **https://www.saucedemo.com/** website is used for Task 1 and Task 2.
+ 
 ### Task 1: Login Page Check and Navigation
- **https://www.saucedemo.com/** website is used for Test
+
 1. **Login Page Check using ID Locator:**
    - Locate and verify elements on the login page using ID locators.
    
@@ -30,6 +31,34 @@ This repository contains automated tests for a web application using Selenium We
    
 4. **Continue Shopping:**
    - Click on the "Continue shopping" button to return to the previous page using an relative path.
+
+
+
+
+## Test Scenario: Form Submission Checks
+This repository contains automated tests for a web application using Selenium WebDriver with Python. The tests are designed to perform various form submission checks on the application hosted at [Try Testing This](https://trytestingthis.netlify.app/).
+
+### Task 3: Form Submission Verification
+
+1. **Fill First Name and Last Name:**
+   - Locate and fill the First Name and Last Name fields using ID locators.
+
+2. **Check Radio Button Selection:**
+   - Verify and assert that the radio button is selected correctly using `isSelected()` method.
+   
+3. **Verify Drop Down Selection:**
+   - Locate the Drop Down element using name locator.
+   - Verify the selected option from the Drop Down using `isSelected()` method and assert.
+
+4. **Check Multiple Options:**
+   - Select multiple options from a list and verify the selections using `isSelected()` method.
+
+5. **Submit the Form:**
+   - Click on the Submit button using an absolute path.
+   
+6. **Confirmation Message:**
+   - Print a confirmation message if the form submission is successful.
+
 
 
 ## Tools Used
