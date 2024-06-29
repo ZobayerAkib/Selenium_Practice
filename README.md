@@ -3,7 +3,7 @@
 This repository contains automated tests for a web application using Selenium WebDriver with Java. The tests are designed to perform basic checks on the login functionality and shopping cart operations of the application.
 
 ## Test Scenarios
- **https://www.saucedemo.com/** website is used for Task 1 and Task 2.
+[This](https://www.saucedemo.com/) website is used for Task 1 and Task 2.
  
 ### Task 1: Login Page Check and Navigation
 
