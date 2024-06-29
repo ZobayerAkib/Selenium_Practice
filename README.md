@@ -36,7 +36,7 @@ This repository contains automated tests for a web application using Selenium We
 
 
 ## Test Scenario: Form Submission Checks
-This repository contains automated tests for a web application using Selenium WebDriver with Python. The tests are designed to perform various form submission checks on the application hosted at [Try Testing This](https://trytestingthis.netlify.app/).
+This repository contains automated tests for a web application using Selenium WebDriver with Java. The tests are designed to perform various form submission checks on the application hosted at [Try Testing This](https://trytestingthis.netlify.app/). `Task 3`, `Task 4` and `Task 5` was done using that website.
 
 ### Task 3: Form Submission Verification
 
