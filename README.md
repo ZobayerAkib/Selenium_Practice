@@ -58,6 +58,17 @@ This repository contains automated tests for a web application using Selenium We
    
 6. **Confirmation Message:**
    - Print a confirmation message if the form submission is successful.
+   - 
+### Task 4: Form Submission Verification using TestNG
+
+- The tests are implemented using TestNG framework in the `TestNG For From Submission Page Check` folder.
+- Test cases for form submission functionalities are located in `TestNgForFormSubmissionCheck`.
+- TestNG reports are automatically generated in the `test-output` directory.
+
+### Task 5: Form Submission Verification using JUnit
+
+- The tests are implemented using JUnit framework in the `JUnit For From Submission Page Check` folder.
+- Test cases for form submission functionalities are located in `JunitPracticeForFormPage.java`.
 
 
 
@@ -65,12 +76,13 @@ This repository contains automated tests for a web application using Selenium We
 
 - **Selenium WebDriver:** Automation tool for web browsers.
 - **Java:** Programming language used for scripting.
-- **TestNG or JUnit:** Frameworks for organizing test cases.
+- **TestNG:** Framework for organizing test cases (Task 4).
+- **JUnit:** Framework for organizing test cases (Task 5).
 - **Assertions:** Used to validate expected outcomes.
 
 ## Setup Instructions
 
-1. **Clone the Repository:**  **https://github.com/ZobayerAkib/Selenium_Practice.git**
+1. **Clone the Repository:**  https://github.com/ZobayerAkib/Selenium_Practice.git
 
 
 2. **Install Dependencies:**
@@ -88,6 +100,6 @@ This repository contains automated tests for a web application using Selenium We
 
 ## Notes
 
-- Update the expected titles and URLs in the test scripts (`TestSeleniumOne.java` and `SeleniumAssignmentTwo.java`) according to your application's actual titles and URLs.
+- Update the expected titles and URLs in the test scripts (`TestSeleniumOne.java` , `SeleniumAssignmentTwo.java` ,`PracticeThree.java` `TestNgForFormSubmissionCheck` and `JunitPracticeForFormPage.java`) according to your application's actual titles and URLs.
 - Ensure all paths (relative and absolute) in the test scripts are correct and match your application's structure.
 - Use appropriate annotations and assertions provided by TestNG or JUnit to structure your test cases effectively.
